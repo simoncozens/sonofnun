@@ -1,0 +1,5 @@
+gem "mongoid"
+gem "mongoid-geospatial"
+gem "activesupport"
+gem "rgeo"
+gem "rgeo-geojson"
